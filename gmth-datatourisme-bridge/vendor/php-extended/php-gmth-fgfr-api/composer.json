@@ -1,0 +1,33 @@
+{
+	"name" : "php-extended/php-gmth-fgfr-api",
+	"description" : "A php API wrapper to connect to gmth.finances.gouv.fr instances",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-mioga-fgfr-api",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-gmth-fgfr-api/issues",
+		"source" : "https://github.com/php-extended/php-gmth-fgfr-api"
+	},
+	"keywords" : [
+		"php",
+		"gmth",
+		"finances.gouv.fr",
+		"API"
+	],
+	"require" : {
+		"php-extended/php-root-cacert-bundle" : ">=1",
+		"php-extended/php-json-object" : "~3",
+		"psr/log" : ">=1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Gmth\\" : "src"
+		}
+	}
+}

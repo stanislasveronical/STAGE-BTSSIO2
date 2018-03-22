@@ -1,0 +1,28 @@
+{
+	"name" : "php-extended/php-gmth-fgfr-interface",
+	"description" : "A php application wrapper for the gmth.finances.gouv.fr application",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-mioga-fgfr-interface",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-mioga-fgfr-interface/issues",
+		"source" : "https://github.com/php-extended/php-mioga-fgfr-interface"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Gmth\\" : "src"
+		}
+	},
+	"keywords" : [
+		"php",
+		"gmth",
+		"finances.gouv.fr",
+		"API"
+	]
+}

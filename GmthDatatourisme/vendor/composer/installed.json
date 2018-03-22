@@ -1,0 +1,384 @@
+[
+    {
+        "name": "php-extended/php-gmth-fgfr-interface",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-gmth-fgfr-interface.git",
+            "reference": "834dcb0325fa107d7db5b6bb7af2bc9cdb170d1f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-gmth-fgfr-interface/zipball/834dcb0325fa107d7db5b6bb7af2bc9cdb170d1f",
+            "reference": "834dcb0325fa107d7db5b6bb7af2bc9cdb170d1f",
+            "shasum": ""
+        },
+        "time": "2017-12-01T17:25:31+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Gmth\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A php application wrapper for the gmth.finances.gouv.fr application",
+        "homepage": "https://github.com/php-extended/php-mioga-fgfr-interface",
+        "keywords": [
+            "api",
+            "finances.gouv.fr",
+            "gmth",
+            "php"
+        ]
+    },
+    {
+        "name": "psr/log",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-fig/log.git",
+            "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-fig/log/zipball/4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+            "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-10-10T12:19:37+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Psr\\Log\\": "Psr/Log/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "PHP-FIG",
+                "homepage": "http://www.php-fig.org/"
+            }
+        ],
+        "description": "Common interface for logging libraries",
+        "homepage": "https://github.com/php-fig/log",
+        "keywords": [
+            "log",
+            "psr",
+            "psr-3"
+        ]
+    },
+    {
+        "name": "php-extended/php-inspect",
+        "version": "1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-inspect.git",
+            "reference": "d7d9726f8dd9f978aff284a3409c755936a2f251"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-inspect/zipball/d7d9726f8dd9f978aff284a3409c755936a2f251",
+            "reference": "d7d9726f8dd9f978aff284a3409c755936a2f251",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2017-08-05T19:16:29+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Inspect\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A library to tell what is that variable, safely",
+        "homepage": "https://github.com/php-extended/php-inspect",
+        "keywords": [
+            "inspect",
+            "inspector",
+            "php",
+            "unknown",
+            "variable"
+        ]
+    },
+    {
+        "name": "php-extended/php-ensure",
+        "version": "2.0.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-ensure.git",
+            "reference": "fa95d20b5f9feceb3cf370d4ddd2e73f01fb6b61"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-ensure/zipball/fa95d20b5f9feceb3cf370d4ddd2e73f01fb6b61",
+            "reference": "fa95d20b5f9feceb3cf370d4ddd2e73f01fb6b61",
+            "shasum": ""
+        },
+        "require": {
+            "php-extended/php-inspect": "~1"
+        },
+        "time": "2017-12-19T14:30:20+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Ensure\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A library to safely convert pointers to the right data type",
+        "homepage": "https://github.com/php-extended/php-ensure",
+        "keywords": [
+            "array",
+            "boolean",
+            "data type",
+            "ensure",
+            "extended",
+            "float",
+            "integer",
+            "object",
+            "php",
+            "string"
+        ]
+    },
+    {
+        "name": "php-extended/php-json-object",
+        "version": "3.0.0",
+        "version_normalized": "3.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-json-object.git",
+            "reference": "3a2373f3441e37e6ffada85f0ea9a9517940c761"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-json-object/zipball/3a2373f3441e37e6ffada85f0ea9a9517940c761",
+            "reference": "3a2373f3441e37e6ffada85f0ea9a9517940c761",
+            "shasum": ""
+        },
+        "require": {
+            "php-extended/php-ensure": "~2"
+        },
+        "time": "2017-12-19T15:29:59+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Json\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A php helper to manipulate json objects",
+        "homepage": "https://github.com/php-extended/php-json-object",
+        "keywords": [
+            "json",
+            "object",
+            "php"
+        ]
+    },
+    {
+        "name": "php-extended/php-root-cacert-bundle",
+        "version": "1.0.50",
+        "version_normalized": "1.0.50.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-root-cacert-bundle.git",
+            "reference": "bac478c536fd07a19f357eb58b9eca79ae592a54"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-root-cacert-bundle/zipball/bac478c536fd07a19f357eb58b9eca79ae592a54",
+            "reference": "bac478c536fd07a19f357eb58b9eca79ae592a54",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-12-31T00:55:09+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\RootCacert\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "Developer"
+            }
+        ],
+        "description": "A library to safely add the CA root certificates into your programmes ssl validations",
+        "homepage": "https://github.com/php-extended/php-root-cacert-bundle",
+        "keywords": [
+            "ca",
+            "certificate",
+            "certification authority",
+            "curl",
+            "php",
+            "root",
+            "ssl",
+            "tls",
+            "validation"
+        ]
+    },
+    {
+        "name": "php-extended/php-gmth-fgfr-api",
+        "version": "1.1.2",
+        "version_normalized": "1.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-gmth-fgfr-api.git",
+            "reference": "a6c8025e3ae4fa0cdba968020df9e6c7261262f8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-gmth-fgfr-api/zipball/a6c8025e3ae4fa0cdba968020df9e6c7261262f8",
+            "reference": "a6c8025e3ae4fa0cdba968020df9e6c7261262f8",
+            "shasum": ""
+        },
+        "require": {
+            "php-extended/php-json-object": "~3",
+            "php-extended/php-root-cacert-bundle": ">=1",
+            "psr/log": ">=1"
+        },
+        "time": "2017-12-22T12:44:20+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Gmth\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A php API wrapper to connect to gmth.finances.gouv.fr instances",
+        "homepage": "https://github.com/php-extended/php-mioga-fgfr-api",
+        "keywords": [
+            "api",
+            "finances.gouv.fr",
+            "gmth",
+            "php"
+        ]
+    },
+    {
+        "name": "php-extended/php-gmth-fgfr-bridge",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-extended/php-gmth-fgfr-bridge.git",
+            "reference": "6afe27f26498dc0daa15bd3831149f81608d4997"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-extended/php-gmth-fgfr-bridge/zipball/6afe27f26498dc0daa15bd3831149f81608d4997",
+            "reference": "6afe27f26498dc0daa15bd3831149f81608d4997",
+            "shasum": ""
+        },
+        "require": {
+            "php-extended/php-gmth-fgfr-api": "^1",
+            "php-extended/php-gmth-fgfr-interface": "^1"
+        },
+        "time": "2018-01-03T08:44:51+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "PhpExtended\\Gmth\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Anastaszor",
+                "homepage": "https://github.com/Anastaszor",
+                "role": "developer"
+            }
+        ],
+        "description": "A php application wrapper for the gmth.finances.gouv.fr API",
+        "homepage": "https://github.com/php-extended/php-gmth-fgfr-bridge",
+        "keywords": [
+            "api",
+            "finances.gouv.fr",
+            "gmth",
+            "php"
+        ]
+    }
+]

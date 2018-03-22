@@ -1,0 +1,9 @@
+{
+    "name": "dge/gmth-datatourisme-bridge",
+    "description": "Php bridge from gmth to datatourisme apps",
+    "type": "library",
+    "require": {
+        "php-extended/php-gmth-fgfr-bridge": "~3"
+    },
+    "license": "MIT"
+}

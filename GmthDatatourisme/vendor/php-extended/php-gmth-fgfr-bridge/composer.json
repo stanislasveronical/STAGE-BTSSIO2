@@ -1,0 +1,32 @@
+{
+	"name" : "php-extended/php-gmth-fgfr-bridge",
+	"description" : "A php application wrapper for the gmth.finances.gouv.fr API",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-gmth-fgfr-bridge",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-gmth-fgfr-bridge/issues",
+		"source" : "https://github.com/php-extended/php-gmth-fgfr-bridge"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Gmth\\" : "src"
+		}
+	},
+	"require" : {
+		"php-extended/php-gmth-fgfr-api" : "^1",
+		"php-extended/php-gmth-fgfr-interface" : "^1"
+	},
+	"keywords" : [
+		"php",
+		"gmth",
+		"finances.gouv.fr",
+		"api"
+	]
+}

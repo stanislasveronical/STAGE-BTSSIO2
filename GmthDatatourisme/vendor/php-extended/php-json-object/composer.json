@@ -1,0 +1,30 @@
+{
+	"name" : "php-extended/php-json-object",
+	"description" : "A php helper to manipulate json objects",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-json-object",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-json-object/issues",
+		"source" : "https://github.com/php-extended/php-json-object"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Json\\" : "src"
+		}
+	},
+	"keywords" : [
+		"php",
+		"json",
+		"object"
+	],
+	"require" : {
+		"php-extended/php-ensure" : "~2"
+	}
+}

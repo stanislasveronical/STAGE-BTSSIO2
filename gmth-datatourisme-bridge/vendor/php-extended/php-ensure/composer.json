@@ -1,0 +1,37 @@
+{
+	"name" : "php-extended/php-ensure",
+	"description" : "A library to safely convert pointers to the right data type",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-ensure",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-ensure/issues",
+		"source" : "https://github.com/php-extended/php-ensure"
+	},
+	"require" : {
+		"php-extended/php-inspect" : "~1"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Ensure\\" : "src"
+		}
+	},
+	"keywords" : [
+		"php",
+		"extended",
+		"ensure",
+		"boolean",
+		"float",
+		"integer",
+		"string",
+		"array",
+		"object",
+		"data type"
+	]
+}

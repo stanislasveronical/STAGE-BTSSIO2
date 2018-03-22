@@ -1,0 +1,406 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<Etablissements>
+    <Etablissement>
+        <Id>24f6a43a-8d60-4a73-8542-a40d3f5979be</Id>
+        <Nom>residence de Piana</Nom>
+        <DateDerniereMiseAJour>2017-02-06</DateDerniereMiseAJour>
+        <Description>Plongeant sur les calanques, la résidence possède une piscine . elle se situe dans le village de Piana et accueille ses clients du 1 février au 14 novembre. Le meublé dispose de deux chambres accessibles au rez de chaussée avec terrasse</Description>
+        <A_Ete_Cree_Par>
+            <Nom>PINARD</Nom>
+            <Prenom>oasis</Prenom>
+            <Civilite>MME</Civilite>
+            <Genre>Femme</Genre>
+            <Courriel>oasis.pinard@sfr.fr</Courriel>
+            <Telephone>0101010101</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>les pieds dans les calanques</Adresse1>
+            <Commune>PIANA</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Meublé de tourisme</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-06</Date_Delivrance>
+                <Date_Publication>2017-11-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-06</Date_Delivrance>
+                <Date_Publication>2017-11-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-06</Date_Delivrance>
+                <Date_Publication>2017-11-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-06</Date_Delivrance>
+                <Date_Publication>2017-11-06</Date_Publication>
+            </Classement>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>db90d575-db4a-4415-9036-c0537dc2f3bb</Id>
+        <Nom>PLAGE DE CALVI</Nom>
+        <DateDerniereMiseAJour>2017-02-06</DateDerniereMiseAJour>
+        <Description>accessible depuis la route reliant Calvi à St Florent la plage est adaptée pour tous les types de handicap. 
+La baignade est surveillée du 1er juin au 30 septembre de 10 h à 16 h, des moyens humains  et  du matériel sont  à disposition pendant ces horaires pour faciliter l'accès à la plage et à la baignade</Description>
+        <A_Ete_Cree_Par>
+            <Nom>PINARD</Nom>
+            <Prenom>oasis</Prenom>
+            <Civilite>MME</Civilite>
+            <Genre>Femme</Genre>
+            <Courriel>oasis.pinard@sfr.fr</Courriel>
+            <Telephone>0101010101</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>LE LONG DU RIVAGE</Adresse1>
+            <Commune>CALVI</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Sortie nature</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-03-15</Date_Delivrance>
+                <Date_Publication>2017-03-15</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-03-15</Date_Delivrance>
+                <Date_Publication>2017-03-15</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-03-15</Date_Delivrance>
+                <Date_Publication>2017-03-15</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-03-15</Date_Delivrance>
+                <Date_Publication>2017-03-15</Date_Publication>
+            </Classement>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>7300fe55-2378-4c9a-a4d8-09870e6df36a</Id>
+        <Nom>PRL les roulottes de Brasparts</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. Eddy Druet</Nom>
+            <Prenom/>
+            <Courriel>contact@roulottes-des-korrigans.com</Courriel>
+            <Telephone>0033298814161</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>Goarem Edern</Adresse1>
+            <Commune>BRASPARTS</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-12-19</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-12-19</Date_Delivrance>
+            </Classement>
+            <Classement/>
+            <Classement/>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>57a1b453-713a-47b9-b8d9-1ac59f5bd9dc</Id>
+        <Nom>Camping Saint Jean</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. BEROT</Nom>
+            <Prenom/>
+            <Courriel>info@campingsaintjean.com</Courriel>
+            <Telephone>0033682164807</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>1910 Route de la Chapelle Saint Jean</Adresse1>
+            <Commune>PLOUGASTEL-DAOULAS</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2015-10-19</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2015-10-19</Date_Delivrance>
+            </Classement>
+            <Classement/>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2015-10-19</Date_Delivrance>
+            </Classement>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>1ae52470-0394-4943-bcc2-7432711af552</Id>
+        <Nom>Camping Le Tenzor de la Baie</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description>Au coeur de la baie du Mt St Michel, le Tenzor de la Baie vous reçoit en toute simplicité. Emplacements camping herbeux, délimités et spacieux. Sanitaires adaptés à proximités, et aire de jeux pour enfants. La location du mobil home adapté est possible à partir de 2 jours et semaine. Accessible par une rampe sur une terrasse semis couverte, vous trouverez la cuisine équipée, une chambre parentale et une chambre enfants (lits superposés), la salle d'eau avec toilettes.
+Le village de Cherrueix, niché entre St Malo et le Mt St Michel, proposant tous les commerces, est à 200 mètres</Description>
+        <A_Ete_Cree_Par>
+            <Nom>M. et Mme Neracoulis</Nom>
+            <Prenom/>
+            <Courriel>tenzor-de-la-baie@wanadoo.fr</Courriel>
+            <Telephone>0033299489813</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>10 bis rue Théophile Blin</Adresse1>
+            <Commune>CHERRUEIX</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-30</Date_Delivrance>
+                <Date_Publication>2017-12-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-30</Date_Delivrance>
+                <Date_Publication>2017-12-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-30</Date_Delivrance>
+                <Date_Publication>2017-12-06</Date_Publication>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2017-11-30</Date_Delivrance>
+                <Date_Publication>2017-12-06</Date_Publication>
+            </Classement>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>88dc1e38-e6ac-420f-b76f-348c468fac7a</Id>
+        <Nom>Camping Municipal La Goule d'Eau</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. Vincent Bourguet</Nom>
+            <Prenom/>
+            <Courriel>devcom@mairie-redon.fr</Courriel>
+            <Telephone>0033299724792</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>Rue de la Goule d'Eau</Adresse1>
+            <Adresse2>Mairie 18 Place Saint Sauveur BP 90129</Adresse2>
+            <Adresse3>35601 REDON cedex</Adresse3>
+            <Commune>REDON</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-05-28</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-05-28</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-05-28</Date_Delivrance>
+            </Classement>
+            <Classement/>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>03a26d6b-e265-4de5-a68c-6ade9b3cbe24</Id>
+        <Nom>Camping du Haras</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. et Mme Danard</Nom>
+            <Prenom/>
+            <Courriel>contact@campingvannes.com</Courriel>
+            <Telephone>0033297446606</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>Kersimon - Vannes</Adresse1>
+            <Adresse2>Meucon</Adresse2>
+            <Commune>MONTERBLANC</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2011-05-18</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2011-05-18</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2011-05-18</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2011-05-18</Date_Delivrance>
+            </Classement>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>179a51e5-c563-48bd-84a7-10ac1f1fead3</Id>
+        <Nom>Camping Entre Terre et Mer</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. et Mme Elain</Nom>
+            <Prenom/>
+            <Courriel>camping.etem@wanadoo.fr</Courriel>
+            <Telephone>0033297325656</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>Route d'Arzano Sapin en Gam</Adresse1>
+            <Commune>PONT-SCORFF</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-05-28</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2012-05-28</Date_Delivrance>
+            </Classement>
+            <Classement/>
+            <Classement/>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>d986c277-1532-447b-bb6a-1aaf7244c31c</Id>
+        <Nom>Camping Ty Nenez</Nom>
+        <DateDerniereMiseAJour>2016-06-29</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>Mme Gaëlle Boureau et Mme Isabelle Iziquel</Nom>
+            <Prenom/>
+            <Courriel>camping-ty-nenez@wanadoo.fr</Courriel>
+            <Telephone>0033297325116</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>Route de Lorient</Adresse1>
+            <Commune>PONT-SCORFF</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2013-12-20</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2013-12-20</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2013-12-20</Date_Delivrance>
+            </Classement>
+            <Classement/>
+        </Classements>
+    </Etablissement>
+    <Etablissement>
+        <Id>29aa477c-e1ef-4120-a695-f2e935b8875f</Id>
+        <Nom>Camping Les Fauvettes</Nom>
+        <DateDerniereMiseAJour>2016-10-05</DateDerniereMiseAJour>
+        <Description/>
+        <A_Ete_Cree_Par>
+            <Nom>M. Christian Urvoy</Nom>
+            <Prenom/>
+            <Courriel>campingfauvettesbinic@orange.fr</Courriel>
+            <Telephone>0033296736083</Telephone>
+        </A_Ete_Cree_Par>
+        <Est_Localise_A>
+            <Adresse1>3 rue des Fauvettes</Adresse1>
+            <Commune>BINIC</Commune>
+        </Est_Localise_A>
+        <Activites>
+            <Activite>Camping</Activite>
+        </Activites>
+        <Classements>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Auditif</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2016-07-07</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Mental</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2016-07-07</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Moteur</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2016-07-07</Date_Delivrance>
+            </Classement>
+            <Classement>
+                <Label>Marque Tourisme &amp; Handicap - Pictogramme Visuel</Label>
+                <En_Cours>True</En_Cours>
+                <Date_Delivrance>2016-07-07</Date_Delivrance>
+            </Classement>
+        </Classements>
+    </Etablissement>
+</Etablissements>

@@ -1,0 +1,32 @@
+{
+	"name" : "php-extended/php-inspect",
+	"description" : "A library to tell what is that variable, safely",
+	"type" : "library",
+	"homepage" : "https://github.com/php-extended/php-inspect",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Anastaszor",
+			"homepage" : "https://github.com/Anastaszor",
+			"role" : "developer"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3"
+	},
+	"support" : {
+		"issues" : "https://github.com/php-extended/php-inspect/issues",
+		"source" : "https://github.com/php-extended/php-inspect"
+	},
+	"keywords" : [
+		"php",
+		"inspect",
+		"inspector",
+		"unknown",
+		"variable"
+	],
+	"autoload" : {
+		"psr-4" : {
+			"PhpExtended\\Inspect\\" : "src/"
+		}
+	}
+}
