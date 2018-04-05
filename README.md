@@ -4,9 +4,6 @@
 
 Lieu : Direction Générale des Entreprises (DGE) - Ivry-Sur-Seine
 
-Projet proposés : 
-  - Alimenter DATAtourisme avec des données pertinentes de GMTH.
-  - Fournir des données à la plateforme OpenData par création d’un fichier XML à partir de l’interface JSON (données récupérées en sortie de l’application GMTH)  qui permettra l’interopérabilité entre les deux applications.
 
 ## GMTH (Gestion de la Marque Tourisme & Handicap) ##
 
@@ -30,8 +27,12 @@ OPENDATA : Données numérique dont l‘accès et l‘usage sont laissées libre
   - Origine : Publique ou privée. 
   - Production : Collectivité, service ou Entreprise. 
 
-## Description ##
+## Le Projet ##
 
-Réalisation de la passerelle en PHP, utilisant des Bibliothèques et Interfaces existantes, générant un fichier en XML.
+Objectif : 
+  - Alimenter DATAtourisme avec des données pertinentes de GMTH.
+  - Fournir des données à la plateforme OpenData par création d’un fichier XML à partir de l’interface JSON (données récupérées en sortie de l’application GMTH)  qui permettra l’interopérabilité entre les deux applications.
+
+Réalisation de la passerelle en PHP à partir des bibliothèques et interfaces existantes.
 
 ![passerelle.PNG](https://github.com/stanislasveronical/STAGE-BTSSIO2/blob/master/images/passerelle.PNG)
