@@ -1,6 +1,6 @@
 # Projet GMTH-DATATourisme #
 
-### STAGE-BTSSIO2 ###
+* STAGE-BTSSIO2 *
 
 Lieu : Direction Générale des Entreprises (DGE) - Ivry-Sur-Seine
 
