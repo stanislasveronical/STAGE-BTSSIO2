@@ -10,6 +10,8 @@ Projet proposés :
 
 ## GMTH (Gestion de la Marque Tourisme & Handicap) ##
 
+![gmth.PNG](https://github.com/stanislasveronical/STAGE-BTSSIO2/blob/master/images/gmth.PNG)
+
 ## DATATourisme (La plateforme OPENDATA de l'information touristique en FRANCE) ##
 
 ## OPENDATA ##
